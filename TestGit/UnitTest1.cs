@@ -4,6 +4,7 @@ using TestGitLib;
 
 namespace TestGit
 {
+    // master commit
     [TestClass]
     public class UnitTest1
     {
