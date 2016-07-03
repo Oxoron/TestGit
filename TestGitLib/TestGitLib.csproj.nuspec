@@ -11,4 +11,7 @@
     <copyright>Copyright 2016</copyright>
     <tags>Test</tags>
   </metadata>
+  <files>
+    <file src="*bin\Debug\*.dll" target="lib\4.6" />
+  </files>
 </package>
