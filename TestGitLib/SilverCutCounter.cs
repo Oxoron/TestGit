@@ -2,7 +2,7 @@
 {
     public static class SilverCutCounter
     {
-        // 1-3-4-7-11 sequence
+        // 1-3-4-7-11 sequence. Do not remember it's name.
         public static int GetNumber(int index)
         {
             if (index == 1)
