@@ -1,2 +1,2 @@
 language: csharp
-solution: TestGit\TestGit.sln
+solution: TestGit/TestGit.sln

@@ -12,7 +12,7 @@
     <tags>Test</tags>
   </metadata>
   <files>
-    <file src="*bin\Debug\*.dll" target="lib\4.6" />
+    <file src="*bin\Debug\*.dll" target="lib\4.6\" />
     <file src="Install.ps1" target="tools\" />
   </files>
 </package>
