@@ -1,14 +1,13 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
 using TestGitLib;
 
 namespace TestGit
 {
     // master commit
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             Assert.AreEqual(1, SilverCutCounter.GetNumber(1));
